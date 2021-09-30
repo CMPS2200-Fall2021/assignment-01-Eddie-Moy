@@ -86,10 +86,9 @@ $$
   - 2a. Translate this to Python code -- fill in the `def foo` method in `main.py`  
 
   - 2b. What does this function do, in your own words?  
-
-.  
-.  
-.  
+.  This function takes in an integer n and returns the fibonacci number at index n. 
+.  FIbonacci sequence --> 0 1 1 2 3 5 8 13 21 34 55...
+.  Foo(8) returns 21
 .  
 .  
 .  
